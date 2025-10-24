@@ -1,6 +1,6 @@
 ## 👋 Welcome to my profile!
 
-Hey there! My name is João, and I'm currently studying **Computer Science**.
+Hey there! My name is João, and I'm studying **Computer Science**.
 
 ### 💼 Work Experience
 - Currently working with **IT infrastructure**  
